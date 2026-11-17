@@ -1,0 +1,145 @@
+20:27:01.788 Navigated to https://www.skechersvn.vn/
+20:27:02.399 modern/:20  GET https://tr.skechersvn.vn/icmt.js?id=ICM-619-4504 net::ERR_EMPTY_RESPONSE
+(anonymous) @ /web-pixels@fe0cff12w3ebd43eapaab70107m6f8ccd4d/custom/web-pixel-35979499@1/sandbox/modern/:20
+fe @ /web-pixels@fe0cff12w3ebd43eapaab70107m6f8ccd4d/custom/web-pixel-35979499@1/sandbox/modern/:7
+p @ /web-pixels@fe0cff12w3ebd43eapaab70107m6f8ccd4d/custom/web-pixel-35979499@1/sandbox/modern/:7
+o @ /web-pixels@fe0cff12w3ebd43eapaab70107m6f8ccd4d/custom/web-pixel-35979499@1/sandbox/modern/:7
+20:27:02.666 global.js:1 Wokiee Shopify Theme. Version 3.3.0 shopify 2.0. https://themeforest.net/item/wokiee-multipurpose-shopify-theme/22559417
+20:27:03.976 swiper-bundle.min.js?v=108059131501615647841772184325:13 Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+g @ swiper-bundle.min.js:13
+loopFix @ swiper-bundle.min.js:13
+loopCreate @ swiper-bundle.min.js:13
+init @ swiper-bundle.min.js:13
+init @ global.js:13
+start @ global.js:1
+dispatchEvent @ exit-interstitial.js:2
+(anonymous) @ global.js:1
+script
+loadSwiper @ global.js:1
+wokieeSwiper @ global.js:1
+(anonymous) @ global.js:13
+20:27:04.295 default.js?shop=skechersvn.myshopify.com:7  GET https://embed.tawk.to/5fc4a030920fc91564cbe75d/default net::ERR_ABORTED 404 (Not Found)
+(anonymous) @ default.js:7
+(anonymous) @ default.js:8
+PendingScript
+asyncLoad @ (index):93
+20:27:15.029 Navigated to https://www.skechersvn.vn/collections/women-skechers-street
+20:27:15.914 women-skechers-street:20  GET https://tr.skechersvn.vn/icmt.js?id=ICM-619-4504 net::ERR_EMPTY_RESPONSE
+(anonymous) @ /web-pixels@fe0cff12w3ebd43eapaab70107m6f8ccd4d/custom/web-pixel-35979499@1/sandbox/modern/collections/women-skechers-street:20
+fe @ /web-pixels@fe0cff12w3ebd43eapaab70107m6f8ccd4d/custom/web-pixel-35979499@1/sandbox/modern/collections/women-skechers-street:7
+p @ /web-pixels@fe0cff12w3ebd43eapaab70107m6f8ccd4d/custom/web-pixel-35979499@1/sandbox/modern/collections/women-skechers-street:7
+o @ /web-pixels@fe0cff12w3ebd43eapaab70107m6f8ccd4d/custom/web-pixel-35979499@1/sandbox/modern/collections/women-skechers-street:7
+20:27:16.013 global.js:1 Wokiee Shopify Theme. Version 3.3.0 shopify 2.0. https://themeforest.net/item/wokiee-multipurpose-shopify-theme/22559417
+20:27:16.911 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.911 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.911 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.911 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.911 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.912 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.912 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.912 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.912 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.912 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.912 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.912 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.912 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.913 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.913 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:16.913 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:17.022 default.js?shop=skechersvn.myshopify.com:7  GET https://embed.tawk.to/5fc4a030920fc91564cbe75d/default net::ERR_ABORTED 404 (Not Found)
+(anonymous) @ default.js:7
+(anonymous) @ default.js:8
+PendingScript
+asyncLoad @ women-skechers-street:94
+20:27:39.108 Navigated to https://www.skechersvn.vn/collections/womens-sport-sneakers
+20:27:39.616 womens-sport-sneakers:20  GET https://tr.skechersvn.vn/icmt.js?id=ICM-619-4504 net::ERR_EMPTY_RESPONSE
+(anonymous) @ womens-sport-sneakers:20
+fe @ womens-sport-sneakers:7
+p @ womens-sport-sneakers:7
+o @ womens-sport-sneakers:7
+20:27:39.896 global.js:1 Wokiee Shopify Theme. Version 3.3.0 shopify 2.0. https://themeforest.net/item/wokiee-multipurpose-shopify-theme/22559417
+20:27:40.634 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.635 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.635 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.635 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.635 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.635 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.636 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.636 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.636 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.636 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.636 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.636 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.637 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.637 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.637 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.637 shop_events_listener-819172a8.js:1 [shop_events_listener] Error in trackViewedProductVariant: Cannot destructure property 'product' of 'findProductAndVariantInCollection(...)' as it is undefined.
+trackViewedProductVariant @ shop_events_listener-819172a8.js:1
+(anonymous) @ shop_events_listener-819172a8.js:1
+20:27:40.792 default.js?shop=skechersvn.myshopify.com:7  GET https://embed.tawk.to/5fc4a030920fc91564cbe75d/default net::ERR_ABORTED 404 (Not Found)
+(anonymous) @ default.js?shop=skechersvn.myshopify.com:7
+(anonymous) @ default.js?shop=skechersvn.myshopify.com:8
+PendingScript
+asyncLoad @ womens-sport-sneakers:96
